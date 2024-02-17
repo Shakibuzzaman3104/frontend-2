@@ -72,7 +72,7 @@ export default function Home() {
           <button
             onClick={(e) => setAddModel(true)}
             type="button"
-            className="bg-purple-500 w-full  h-full   text-base font-semibold px-4  sm:px-14 py-2 text-white rounded-full">
+            className="bg-purple-500 w-full  h-11  text-base font-semibold px-4  sm:px-14 py-2 text-white rounded-full">
             Add New
           </button>
         </div>
